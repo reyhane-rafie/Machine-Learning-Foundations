@@ -1,6 +1,6 @@
 # 📚 Machine Learning Foundations
 
-Welcome! 👋
+Welcome! 
 
 I'm building this repository while learning the mathematical and statistical foundations of Machine Learning from scratch.
 
@@ -37,15 +37,15 @@ Machine-Learning-Foundations/
 
 Each notebook follows a consistent structure:
 
-* 🎯 Learning Objectives
-* 🤔 Why This Matters in Machine Learning
-* 💡 Intuition
-* 📐 Mathematical Definition
-* 📝 Worked Examples
-* 🤖 Machine Learning Applications
-* 💻 Python Examples (when appropriate)
-* ✅ Key Takeaways
-* 📚 Summary
+*  Learning Objectives
+*  Why This Matters in Machine Learning
+*  Intuition
+*  Mathematical Definition
+*  Worked Examples
+*  Machine Learning Applications
+*  Python Examples (when appropriate)
+*  Key Takeaways
+*  Summary
 
 ---
 
@@ -166,4 +166,4 @@ If you find this repository helpful, consider giving it a ⭐.
 
 I hope these notebooks make learning the foundations of Machine Learning a little easier—for you as well as for my future self.
 
-Happy learning! 🚀
+Happy learning! 
