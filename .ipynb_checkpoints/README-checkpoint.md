@@ -105,12 +105,12 @@ Each notebook follows a consistent structure:
 
 Whenever possible, the notebooks include examples from:
 
-* 🤖 Machine Learning
-* 🛰️ Remote Sensing
-* 🌍 GIS
-* 🌱 Environmental Science
-* 💧 Water Resources
-* 🌦️ Climate and Earth Observation
+*  Machine Learning
+*  Remote Sensing
+*  GIS
+*  Environmental Science
+*  Water Resources
+*  Climate and Earth Observation
 
 The objective is to bridge mathematical concepts with practical applications.
 
