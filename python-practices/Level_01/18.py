@@ -24,4 +24,4 @@ def classify_water(ph, turbidity):
 ph = float(input("Enter pH: "))
 turbidity = float(input("Enter Turbidity (NTU): "))
 
-print("Water Quality", classify_water(ph, turbidity))
+print("Water Quality:", classify_water(ph, turbidity))
