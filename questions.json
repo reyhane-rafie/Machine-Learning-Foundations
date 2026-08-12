@@ -1,0 +1,31 @@
+[
+    {
+        "question": "Capital of Germany?",
+        "options": [
+            "A Berlin",
+            "B Paris",
+            "C Madrid"
+        ],
+        "answer": "A"
+    },
+
+    {
+        "question": "Largest planet in our solar system?",
+        "options": [
+            "A Earth",
+            "B Jupiter",
+            "C Mars"
+        ],
+        "answer": "B"
+    },
+
+    {
+        "question": "Python is a ____?",
+        "options": [
+            "A Programming language",
+            "B Database",
+            "C Browser"
+        ],
+        "answer": "A"
+    }
+]
